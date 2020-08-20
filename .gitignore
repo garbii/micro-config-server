@@ -1,0 +1,4 @@
+spring-cloud-config-server/.settings/
+spring-cloud-config-server/target/
+spring-cloud-config-server/.classpath
+spring-cloud-config-server/.project
